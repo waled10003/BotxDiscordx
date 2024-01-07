@@ -1,0 +1,4 @@
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file venv/bin/python","time":"2024-01-05T20:08:15Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file venv/bin/python3","time":"2024-01-05T20:08:15Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file venv/bin/python3.10","time":"2024-01-05T20:08:15Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file venv/lib64","time":"2024-01-05T20:08:35Z"}
